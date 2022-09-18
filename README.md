@@ -1,16 +1,12 @@
-# flutter_application_1
+Potrait            |  Landscape
+:-------------------------:|:-------------------------:
+![Screenshot_1663498027](https://user-images.githubusercontent.com/112309051/190899884-d4a11d4c-dadc-4437-bbc4-452c53b0818a.png)  |  ![Screenshot_1663498072](https://user-images.githubusercontent.com/112309051/190899863-eec85e98-e690-4530-839f-899e744b9115.png)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Potrait            |  Landscape
+:-------------------------:|:-------------------------:
+![Screenshot_1663498037](https://user-images.githubusercontent.com/112309051/190899894-0b778a83-3202-40a2-99d7-bfd77826fbeb.png)  |  ![Screenshot_1663498056](https://user-images.githubusercontent.com/112309051/190899865-b6f79db4-f1e1-4bff-95be-1497eb73c7ca.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
